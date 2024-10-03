@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBrokerDemo.Consumer", "MessageBrokerDemo.Consumer\MessageBrokerDemo.Consumer.csproj", "{24C40DE6-297C-4B6B-AD7D-8748E25DFB2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBrokerDemo.Producer", "MessageBrokerDemo.Producer\MessageBrokerDemo.Producer.csproj", "{3B7276B7-0ED9-416F-90B9-F494C9881A12}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBrokerDemo.Consumer", "MessageBrokerDemo.Consumer\MessageBrokerDemo.Consumer.csproj", "{DEE56E37-96E4-46C0-89BB-B36EF8813FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBrokerDemo.Producer", "MessageBrokerDemo.Producer\MessageBrokerDemo.Producer.csproj", "{8D3AFC9F-8E20-43F5-A3B2-26D028F5924F}"
+>>>>>>> 0bd5bdc (Message Broker Demo using console app)
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{24C40DE6-297C-4B6B-AD7D-8748E25DFB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C40DE6-297C-4B6B-AD7D-8748E25DFB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C40DE6-297C-4B6B-AD7D-8748E25DFB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C40DE6-297C-4B6B-AD7D-8748E25DFB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7276B7-0ED9-416F-90B9-F494C9881A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7276B7-0ED9-416F-90B9-F494C9881A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7276B7-0ED9-416F-90B9-F494C9881A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7276B7-0ED9-416F-90B9-F494C9881A12}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{DEE56E37-96E4-46C0-89BB-B36EF8813FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE56E37-96E4-46C0-89BB-B36EF8813FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE56E37-96E4-46C0-89BB-B36EF8813FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE56E37-96E4-46C0-89BB-B36EF8813FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3AFC9F-8E20-43F5-A3B2-26D028F5924F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3AFC9F-8E20-43F5-A3B2-26D028F5924F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3AFC9F-8E20-43F5-A3B2-26D028F5924F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3AFC9F-8E20-43F5-A3B2-26D028F5924F}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 0bd5bdc (Message Broker Demo using console app)
+	EndGlobalSection
+EndGlobal
